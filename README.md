@@ -1,6 +1,7 @@
 ### 😎 **Sobre mim**  
-Olá, sou Thais, tenho 16 anos e estou cursando **Programação de Sistemas** no SENAI.  
-Atualmente estou aprendendo e praticando HTML, CSS e JavaScript.
+Oi! Sou a Thais, tenho 16 anos e estou estudando programação.
+💻 Aprendendo HTML, CSS, JavaScript e Git.
+🚀 Buscando evoluir e criar projetos legais!
 
 ---
 
